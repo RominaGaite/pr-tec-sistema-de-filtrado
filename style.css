@@ -1,0 +1,109 @@
+.filtrado-promedio {
+    width: 100%;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    padding: 1%;
+}
+
+input, select, button {
+    width: 20vw;
+    height: 8vh;
+    border: solid 2px rgb(89, 116, 235);
+    margin-top: 2%;
+}
+
+select {
+    background-color: rgb(89, 116, 235);
+    color: #fff;
+    height: 9vh;
+    margin-left: 5px;
+}
+
+button {
+    background-color: rgb(89, 116, 235);
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 2%;
+}
+
+th, td {
+    border: 1px solid rgb(89, 116, 235);
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: rgba(89, 116, 235, 0.731);
+    text-align: center;
+    color: #fff;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 25%;
+    top: 25%;
+    width: 50%;
+    height: 30%;
+    background-color: rgba(0, 0, 255, 0.2);
+}
+
+.modal-content {
+    background-color: #edeaea;
+    color: rgb(89, 116, 235);
+    display: flex;
+    width: 98%;
+    height: 97%;
+    border: 3px solid rgb(89, 116, 235);
+    border-radius: 20px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gif-modal img {
+    width: 50%;
+    display: block;
+    margin-left: 25%;
+}
+
+.text-container {
+    width: 100%;
+    text-align: center;
+    margin-left: 20px;
+    flex: 1;
+}
+
+.gif-container {
+    width: 50%;
+}

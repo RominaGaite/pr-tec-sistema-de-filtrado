@@ -1,0 +1,12 @@
+El sector contable trabaja habitualmente con reportes de Estados Unidos. Requiere listar las tareas entregadas por los usuarios que superen el monto promedio de ese recurso y cuya orden de trabajo sea del mes y año dados.
+
+La lista deberá tener por columnas:
+
+- Nombre completo de recurso
+- Nro de proyecto
+- Fecha de la orden de trabajo
+- Nro de tarea
+- Precio unitario de la tarea
+- Cantidad
+- Monto
+- Nro de orden de trabajo

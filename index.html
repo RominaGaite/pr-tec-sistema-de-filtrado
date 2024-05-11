@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Prueba Técnica</title>
+</head>
+
+<body>
+
+    <div class="filtrado-promedio">
+        <div >
+            <input type="text" id="inputNombre" placeholder="Ingrese el nombre del recurso" oninput="filtrarRecursos()">
+            <select id="selectMes" onchange="filtrarRecursos()">
+                <option value="">Seleccione un Mes</option>
+            </select>
+            <select id="selectAnio" onchange="filtrarRecursos()">
+                <option value="">Seleccione el Año</option>
+            </select>
+        </div>
+
+        <div >
+            <input type="text" id="inputNumeroTarea" placeholder="Ingrese número de tarea" oninput="filtrarRecursos()">
+            <input type="text" id="inputNumeroProyecto" placeholder="Ingrese número de proyecto" oninput="filtrarRecursos()">
+            <input type="text" id="inputNumeroOrden" placeholder="Ingrese número de orden de trabajo"
+                oninput="filtrarRecursos()">
+        
+        </div>
+
+        <div >
+            <button onclick="filtrarRecursos()">Filtrar</button>
+        </div>
+        
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre completo de recurso</th>
+                <th>Nro de proyecto</th>
+                <th>Fecha de la orden de trabajo</th>
+                <th>Nro de tarea</th>
+                <th>Precio unitario de la tarea</th>
+                <th>Cantidad</th>
+                <th>Monto</th>
+                <th>Nro de orden de trabajo</th>
+            </tr>
+        </thead>
+        <tbody id="listaRecursos">
+        </tbody>
+    </table>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <!-- Aquí se mostrará el contenido del modal -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

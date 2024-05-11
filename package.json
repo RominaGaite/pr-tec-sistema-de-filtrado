@@ -1,0 +1,16 @@
+{
+  "name": "pr-tec-sistema-de-filtrado",
+  "version": "1.0.0",
+  "description": "copia de sistema de filtrado para la realizacion de una prueba tecnica",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "data": "node ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}

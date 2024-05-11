@@ -1,0 +1,952 @@
+[
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50805",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "81800",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "75114"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50487",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81058",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74453"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50839",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "82034",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "10.000",
+    "Monto": "48000.000000",
+    "Nro de orden de trabajo": "75310"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50683",
+    "Fecha de la orden de trabajo": "10-24-2023",
+    "Nro de tarea": "81647",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "74978"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50526",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81192",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74565"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50829",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "81829",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "4.000",
+    "Monto": "19200.000000",
+    "Nro de orden de trabajo": "75140"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50408",
+    "Fecha de la orden de trabajo": "10-06-2023",
+    "Nro de tarea": "81018",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74408"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50823",
+    "Fecha de la orden de trabajo": "10-31-2023",
+    "Nro de tarea": "82000",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75277"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50346",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81044",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74437"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50481",
+    "Fecha de la orden de trabajo": "10-11-2023",
+    "Nro de tarea": "81190",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74563"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50653",
+    "Fecha de la orden de trabajo": "10-19-2023",
+    "Nro de tarea": "82073",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "7.000",
+    "Monto": "33600.000000",
+    "Nro de orden de trabajo": "75344"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50382",
+    "Fecha de la orden de trabajo": "10-18-2023",
+    "Nro de tarea": "81371",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "6.000",
+    "Monto": "28800.000000",
+    "Nro de orden de trabajo": "74733"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50741",
+    "Fecha de la orden de trabajo": "10-23-2023",
+    "Nro de tarea": "81600",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "74932"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50542",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81191",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "5.000",
+    "Monto": "19450.000000",
+    "Nro de orden de trabajo": "74564"
+  },
+  {
+    "Nombre completo de recurso": "Carmen Bustamante",
+    "Nro de proyecto": "50295",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80602",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "5.000",
+    "Monto": "19450.000000",
+    "Nro de orden de trabajo": "74045"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50483",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81013",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "6.500",
+    "Monto": "25285.000000",
+    "Nro de orden de trabajo": "74404"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50852",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "81889",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.500",
+    "Monto": "7200.000000",
+    "Nro de orden de trabajo": "75194"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50727",
+    "Fecha de la orden de trabajo": "10-23-2023",
+    "Nro de tarea": "81567",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "10.000",
+    "Monto": "48000.000000",
+    "Nro de orden de trabajo": "74903"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50752",
+    "Fecha de la orden de trabajo": "10-24-2023",
+    "Nro de tarea": "81632",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74962"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50549",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81184",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "0.500",
+    "Monto": "1945.000000",
+    "Nro de orden de trabajo": "74557"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50303",
+    "Fecha de la orden de trabajo": "10-13-2023",
+    "Nro de tarea": "81240",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74613"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50870",
+    "Fecha de la orden de trabajo": "10-31-2023",
+    "Nro de tarea": "82040",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "11.000",
+    "Monto": "52800.000000",
+    "Nro de orden de trabajo": "75315"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "49143",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80524",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "8.500",
+    "Monto": "33065.000000",
+    "Nro de orden de trabajo": "73990"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50478",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81012",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74403"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50580",
+    "Fecha de la orden de trabajo": "10-13-2023",
+    "Nro de tarea": "81227",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74601"
+  },
+  {
+    "Nombre completo de recurso": "Rodrigo Pacheco",
+    "Nro de proyecto": "50306",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80579",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "27.000",
+    "Monto": "105030.000000",
+    "Nro de orden de trabajo": "74031"
+  },
+  {
+    "Nombre completo de recurso": "Gerardo Figueredo",
+    "Nro de proyecto": "50426",
+    "Fecha de la orden de trabajo": "10-06-2023",
+    "Nro de tarea": "81241",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.500",
+    "Monto": "5835.000000",
+    "Nro de orden de trabajo": "74614"
+  },
+  {
+    "Nombre completo de recurso": "Gerardo Figueredo",
+    "Nro de proyecto": "50749",
+    "Fecha de la orden de trabajo": "10-24-2023",
+    "Nro de tarea": "81733",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "0.250",
+    "Monto": "1200.000000",
+    "Nro de orden de trabajo": "75050"
+  },
+  {
+    "Nombre completo de recurso": "Gerardo Figueredo",
+    "Nro de proyecto": "50534",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81176",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "0.500",
+    "Monto": "1945.000000",
+    "Nro de orden de trabajo": "74548"
+  },
+  {
+    "Nombre completo de recurso": "Gerardo Figueredo",
+    "Nro de proyecto": "50567",
+    "Fecha de la orden de trabajo": "10-13-2023",
+    "Nro de tarea": "81300",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74666"
+  },
+  {
+    "Nombre completo de recurso": "Ramiro Cáceres",
+    "Nro de proyecto": "50353",
+    "Fecha de la orden de trabajo": "10-05-2023",
+    "Nro de tarea": "82066",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "75338"
+  },
+  {
+    "Nombre completo de recurso": "Ramiro Cáceres",
+    "Nro de proyecto": "50349",
+    "Fecha de la orden de trabajo": "10-06-2023",
+    "Nro de tarea": "82068",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "75340"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50813",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "81774",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.500",
+    "Monto": "12000.000000",
+    "Nro de orden de trabajo": "75091"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50490",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81022",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.500",
+    "Monto": "5835.000000",
+    "Nro de orden de trabajo": "74412"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50535",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81148",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "0.500",
+    "Monto": "1945.000000",
+    "Nro de orden de trabajo": "74521"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50870",
+    "Fecha de la orden de trabajo": "10-31-2023",
+    "Nro de tarea": "82038",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75314"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50306",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80582",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74033"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50482",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81010",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.500",
+    "Monto": "5835.000000",
+    "Nro de orden de trabajo": "74401"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50363",
+    "Fecha de la orden de trabajo": "10-04-2023",
+    "Nro de tarea": "81091",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74486"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50684",
+    "Fecha de la orden de trabajo": "10-24-2023",
+    "Nro de tarea": "81648",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74979"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50305",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80827",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74219"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50585",
+    "Fecha de la orden de trabajo": "10-17-2023",
+    "Nro de tarea": "81315",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "23.000",
+    "Monto": "110400.000000",
+    "Nro de orden de trabajo": "74686"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50634",
+    "Fecha de la orden de trabajo": "10-18-2023",
+    "Nro de tarea": "81429",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "8.000",
+    "Monto": "38400.000000",
+    "Nro de orden de trabajo": "74778"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50843",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "81873",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75178"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50641",
+    "Fecha de la orden de trabajo": "10-19-2023",
+    "Nro de tarea": "81432",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74781"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50861",
+    "Fecha de la orden de trabajo": "10-30-2023",
+    "Nro de tarea": "82006",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "75284"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50713",
+    "Fecha de la orden de trabajo": "10-20-2023",
+    "Nro de tarea": "81536",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74871"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50497",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81147",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74520"
+  },
+  {
+    "Nombre completo de recurso": "Brenda Márquez",
+    "Nro de proyecto": "50597",
+    "Fecha de la orden de trabajo": "10-16-2023",
+    "Nro de tarea": "81268",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74681"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50360",
+    "Fecha de la orden de trabajo": "10-05-2023",
+    "Nro de tarea": "80920",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "6.500",
+    "Monto": "25285.000000",
+    "Nro de orden de trabajo": "74307"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50485",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81008",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "3.000",
+    "Monto": "11670.000000",
+    "Nro de orden de trabajo": "74399"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50695",
+    "Fecha de la orden de trabajo": "10-20-2023",
+    "Nro de tarea": "81505",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74839"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50714",
+    "Fecha de la orden de trabajo": "10-30-2023",
+    "Nro de tarea": "82007",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "0.330",
+    "Monto": "1584.000000",
+    "Nro de orden de trabajo": "75285"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50308",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80691",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "6.500",
+    "Monto": "25285.000000",
+    "Nro de orden de trabajo": "74109"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50789",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "81775",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "75092"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50393",
+    "Fecha de la orden de trabajo": "10-05-2023",
+    "Nro de tarea": "80921",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74308"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50419",
+    "Fecha de la orden de trabajo": "10-09-2023",
+    "Nro de tarea": "81370",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "0.750",
+    "Monto": "3600.000000",
+    "Nro de orden de trabajo": "74732"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50649",
+    "Fecha de la orden de trabajo": "10-18-2023",
+    "Nro de tarea": "81426",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "0.500",
+    "Monto": "2400.000000",
+    "Nro de orden de trabajo": "74775"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50730",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "81872",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.660",
+    "Monto": "7968.000000",
+    "Nro de orden de trabajo": "75177"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50306",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "80583",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "3.000",
+    "Monto": "11670.000000",
+    "Nro de orden de trabajo": "74034"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50384",
+    "Fecha de la orden de trabajo": "10-05-2023",
+    "Nro de tarea": "80993",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "0.800",
+    "Monto": "3112.000000",
+    "Nro de orden de trabajo": "74384"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50839",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "82037",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "75313"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50870",
+    "Fecha de la orden de trabajo": "10-31-2023",
+    "Nro de tarea": "82042",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "5.000",
+    "Monto": "24000.000000",
+    "Nro de orden de trabajo": "75317"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50412",
+    "Fecha de la orden de trabajo": "10-06-2023",
+    "Nro de tarea": "82069",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "75341"
+  },
+  {
+    "Nombre completo de recurso": "Hernán Bogado",
+    "Nro de proyecto": "50647",
+    "Fecha de la orden de trabajo": "10-18-2023",
+    "Nro de tarea": "82303",
+    "Precio unitario de la tarea": "5350.000",
+    "Cantidad": "4.000",
+    "Monto": "21400.000000",
+    "Nro de orden de trabajo": "75546"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50525",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81332",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.500",
+    "Monto": "7200.000000",
+    "Nro de orden de trabajo": "74678"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50514",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81372",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "74734"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50508",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "81866",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "75172"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50651",
+    "Fecha de la orden de trabajo": "10-18-2023",
+    "Nro de tarea": "81430",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.500",
+    "Monto": "7200.000000",
+    "Nro de orden de trabajo": "74779"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50587",
+    "Fecha de la orden de trabajo": "10-17-2023",
+    "Nro de tarea": "82072",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75343"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50785",
+    "Fecha de la orden de trabajo": "10-25-2023",
+    "Nro de tarea": "81707",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "4.000",
+    "Monto": "19200.000000",
+    "Nro de orden de trabajo": "75027"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50585",
+    "Fecha de la orden de trabajo": "10-17-2023",
+    "Nro de tarea": "82083",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "8.000",
+    "Monto": "38400.000000",
+    "Nro de orden de trabajo": "74685"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50554",
+    "Fecha de la orden de trabajo": "10-16-2023",
+    "Nro de tarea": "81288",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "2.000",
+    "Monto": "7780.000000",
+    "Nro de orden de trabajo": "74657"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50769",
+    "Fecha de la orden de trabajo": "10-25-2023",
+    "Nro de tarea": "81741",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.500",
+    "Monto": "12000.000000",
+    "Nro de orden de trabajo": "75059"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50585",
+    "Fecha de la orden de trabajo": "10-17-2023",
+    "Nro de tarea": "81314",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "21.000",
+    "Monto": "100800.000000",
+    "Nro de orden de trabajo": "74685"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50652",
+    "Fecha de la orden de trabajo": "10-18-2023",
+    "Nro de tarea": "81431",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.500",
+    "Monto": "7200.000000",
+    "Nro de orden de trabajo": "74780"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50665",
+    "Fecha de la orden de trabajo": "10-19-2023",
+    "Nro de tarea": "81525",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "0.660",
+    "Monto": "3168.000000",
+    "Nro de orden de trabajo": "74861"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50887",
+    "Fecha de la orden de trabajo": "10-31-2023",
+    "Nro de tarea": "82031",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "7.000",
+    "Monto": "33600.000000",
+    "Nro de orden de trabajo": "75307"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50675",
+    "Fecha de la orden de trabajo": "10-23-2023",
+    "Nro de tarea": "81584",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "10.000",
+    "Monto": "48000.000000",
+    "Nro de orden de trabajo": "74915"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50839",
+    "Fecha de la orden de trabajo": "10-27-2023",
+    "Nro de tarea": "82035",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "5.000",
+    "Monto": "24000.000000",
+    "Nro de orden de trabajo": "75311"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50383",
+    "Fecha de la orden de trabajo": "10-12-2023",
+    "Nro de tarea": "81149",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74522"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50618",
+    "Fecha de la orden de trabajo": "10-17-2023",
+    "Nro de tarea": "81643",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.000",
+    "Monto": "4800.000000",
+    "Nro de orden de trabajo": "74974"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "49143",
+    "Fecha de la orden de trabajo": "10-02-2023",
+    "Nro de tarea": "81198",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74572"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50813",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "82085",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75089"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50557",
+    "Fecha de la orden de trabajo": "10-13-2023",
+    "Nro de tarea": "81290",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "5.000",
+    "Monto": "19450.000000",
+    "Nro de orden de trabajo": "74658"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50813",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "81772",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75089"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50693",
+    "Fecha de la orden de trabajo": "10-20-2023",
+    "Nro de tarea": "81799",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "75113"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50826",
+    "Fecha de la orden de trabajo": "10-26-2023",
+    "Nro de tarea": "81831",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75141"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50358",
+    "Fecha de la orden de trabajo": "10-04-2023",
+    "Nro de tarea": "81019",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.500",
+    "Monto": "5835.000000",
+    "Nro de orden de trabajo": "74409"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50493",
+    "Fecha de la orden de trabajo": "10-10-2023",
+    "Nro de tarea": "81046",
+    "Precio unitario de la tarea": "3890.000",
+    "Cantidad": "1.000",
+    "Monto": "3890.000000",
+    "Nro de orden de trabajo": "74440"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50845",
+    "Fecha de la orden de trabajo": "10-31-2023",
+    "Nro de tarea": "82033",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.000",
+    "Monto": "14400.000000",
+    "Nro de orden de trabajo": "75309"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50682",
+    "Fecha de la orden de trabajo": "10-24-2023",
+    "Nro de tarea": "81646",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "1.660",
+    "Monto": "7968.000000",
+    "Nro de orden de trabajo": "74977"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50703",
+    "Fecha de la orden de trabajo": "10-25-2023",
+    "Nro de tarea": "81703",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "3.500",
+    "Monto": "16800.000000",
+    "Nro de orden de trabajo": "75023"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50675",
+    "Fecha de la orden de trabajo": "10-23-2023",
+    "Nro de tarea": "82082",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "74915"
+  },
+  {
+    "Nombre completo de recurso": "Héctor Rodriguez",
+    "Nro de proyecto": "50793",
+    "Fecha de la orden de trabajo": "10-25-2023",
+    "Nro de tarea": "81740",
+    "Precio unitario de la tarea": "4800.000",
+    "Cantidad": "2.000",
+    "Monto": "9600.000000",
+    "Nro de orden de trabajo": "75058"
+  }
+]
